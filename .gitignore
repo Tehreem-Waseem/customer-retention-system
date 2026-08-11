@@ -6,8 +6,8 @@ __pycache__/
 *.pyc
 
 # Model artifacts & large files
-artifacts/*.joblib
-artifacts/*.pkl
+# artifacts/*.joblib
+# artifacts/*.pkl
 
 # Streamlit & Testing cache
 .streamlit/
