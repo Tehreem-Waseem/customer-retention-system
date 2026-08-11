@@ -1,0 +1,18 @@
+# Python environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Model artifacts & large files
+artifacts/*.joblib
+artifacts/*.pkl
+
+# Streamlit & Testing cache
+.streamlit/
+.pytest_cache/
+
+# IDE settings
+.vscode/
+.idea/
