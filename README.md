@@ -18,6 +18,13 @@
 </p>
 
 ---
+## 📱 Interactive Dashboard Preview
+
+![Dashboard Full Layout](assets/dashboard_preview1.png)
+
+<br>
+
+![Risk Prediction & Action Engine](assets/dashboard_preview2.png)
 
 ## 📊 Business Impact & ROI Highlights
 
