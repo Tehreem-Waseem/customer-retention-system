@@ -17,14 +17,17 @@
   🚀 <b><a href="https://customer-retention-system-8zyvt6uptwnh9cfrdmeagw.streamlit.app/">CLICK HERE TO LAUNCH LIVE DASHBOARD DEMO</a></b> 🚀
 </p>
 
----
 ## 📱 Interactive Dashboard Preview
 
-![Dashboard Full Layout](assets/dashboard_preview1.png)
+<p align="center">
+  <img src="assets/preview1.png" alt="Dashboard Full Layout" width="100%" />
+</p>
 
 <br>
 
-![Risk Prediction & Action Engine](assets/dashboard_preview2.png)
+<p align="center">
+  <img src="assets/preview2.png" alt="Risk Prediction and Action Engine" width="100%" />
+</p>
 
 ## 📊 Business Impact & ROI Highlights
 
