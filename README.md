@@ -29,12 +29,7 @@
 | **Random Outreach (Baseline)** | 59 Customers | Baseline Profit |
 | **ML-Prioritized Selection** | **130 Customers** | **+$6,390 Saved Revenue** |
 
----# Customer Retention & Decision Support System
 
-End-to-end system that predicts customer churn, translates the prediction into
-a business decision (risk tier, priority, recommended action), estimates the
-dollar value of acting on it, and serves it all through an interactive
-dashboard.
 
 ## Repository Layout
 
